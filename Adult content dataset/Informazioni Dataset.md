@@ -3,7 +3,7 @@
 ## **link roboflow**:
 ### [Dataset](https://app.roboflow.com/adultcontent/adultcontents/generate/splits)
 
- ### (per apportare una qualsiasi modifica al dataset, o trovare altre informazioni legate ad esso)
+ ### (per apportare una qualsiasi modifica al dataset o trovare altre informazioni legate ad esso)
  #
 ## **Labels utilizzate**:
 
