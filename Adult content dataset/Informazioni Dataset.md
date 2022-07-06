@@ -1,11 +1,22 @@
 # **IMAGE LABELING DATASET PORNO**
 
-## **link roboflow**:
-### [Dataset](https://app.roboflow.com/adultcontent/adultcontents/generate/splits)
+## ***link roboflow per accedere alla modifica del dataset***:
+  ### [Dataset](https://app.roboflow.com/adultcontent/adultcontents/generate/splits)
 
- ### (per apportare una qualsiasi modifica al dataset o trovare altre informazioni legate ad esso)
- #
-## **Labels utilizzate**:
+  ### (per apportare una qualsiasi modifica al dataset o trovare altre informazioni legate ad esso)
+#
+## ***link roboflow per scaricare la versione del dataset utilizzata per fare il training di yolo***:
+### (80% train - 20% validation)
+
+###  *YOLOv5pyTorch*: [AdultContentsv2](https://app.roboflow.com/ds/3cSSpsXErH?key=szHeJmv8wj)
+
+###  *YOLOv6*: [AdultContentsv2](https://app.roboflow.com/ds/9DuGa29kjw?key=i3Zm3DWXFJ)
+#
+NB: Il dataset caricato in questa cartella sotto forma di zip nei diversi formati  è la v1 (ha tutte le immagini etichettate in una singola cartella chiamata 'train' - 100% train). 
+Per appoortare una qualsiasi modifica andare dal link [Dataset](https://app.roboflow.com/adultcontent/adultcontents/generate/splits).
+#
+
+## ***Labels utilizzate per etichettare il dataset***:
 
 - ### *anus* - ano
 
@@ -32,7 +43,3 @@
 - ###	*vagina* – genitali femminili
 
 
-#
-
-        NB Il dataset caricato qui nei diversi formati  è la v1 ( ha tutte le immagini etichettate in una singola cartella chiamata 'train'). 
-        Per appoortare una qualsiasi modifica andare dal link.
