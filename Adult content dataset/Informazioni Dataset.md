@@ -16,9 +16,9 @@ NB: Non è stato fatto l'addestramento su yolov6, per la mancanza del dockerfile
 
 
 ## ***link roboflow per scaricare la versione del dataset utilizzata per fare il training di yolo con una sola label***:
-### (100% train)
+### (80% train - 20% validation)
 
-###  *YOLOv5pyTorch*: [AdultContentsv3](https://app.roboflow.com/ds/Ib8pW7uQ05?key=v0zW3H8qp0)
+###  *YOLOv5pyTorch*: [AdultContentsv4](https://app.roboflow.com/ds/SC4yWSPUu7?key=jsMzmkWDbG)
 
 #
 NB: Il dataset caricato in questa cartella sotto forma di zip nei diversi formati  è la v1 (ha tutte le immagini etichettate in una singola cartella chiamata 'train' - 100% train). 
@@ -53,7 +53,7 @@ Per apportare una qualsiasi modifica andare dal link [Dataset](https://app.robof
 
 #
 
-## ***Label utilizzata per etichettare il dataset (AdultContentsv3)***:
+## ***Label utilizzata per etichettare il dataset (AdultContentsv4)***:
 - ### *porn* - ano, seno, natiche, masturbazione (maschile e femminile), sesso orale (maschile e femminile), atto della penetrazione (tramite genitali maschili e sex toys) con focus sui genitali, posizioni di penetrazione (degli interi corpi coinvolti), genitali maschili, posizioni di tipo sessuale diverse dalla penetrazione tramite genitali maschili (degli interi corpi coinvolti), oggetti di uso sessuale, genitali femminili
 
 
