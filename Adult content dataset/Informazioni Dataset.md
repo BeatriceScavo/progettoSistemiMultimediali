@@ -54,6 +54,6 @@ Per apportare una qualsiasi modifica andare dal link [Dataset](https://app.robof
 #
 
 ## ***Label utilizzata per etichettare il dataset (AdultContentsv4)***:
-- ### *porn* - ano, seno, natiche, masturbazione (maschile e femminile), sesso orale (maschile e femminile), atto della penetrazione (tramite genitali maschili e sex toys) con focus sui genitali, posizioni di penetrazione (degli interi corpi coinvolti), genitali maschili, posizioni di tipo sessuale diverse dalla penetrazione tramite genitali maschili (degli interi corpi coinvolti), oggetti di uso sessuale, genitali femminili
+- ### *porn* - ano, seno, natiche, masturbazione (maschile e femminile), sesso orale (maschile e femminile), atto della penetrazione (tramite genitali maschili e sex toys) con focus sui genitali, posizioni di penetrazione (degli interi corpi coinvolti), genitali maschili, posizioni di tipo sessuale diverse dalla penetrazione tramite genitali maschili (degli interi corpi coinvolti), oggetti di uso sessuale, genitali femminili.
 
 
