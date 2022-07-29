@@ -1,0 +1,5 @@
+train: /usr/src/app/dataset/train/images
+val: /usr/src/app/dataset/valid/images
+
+nc: 1
+names: ['porn']
